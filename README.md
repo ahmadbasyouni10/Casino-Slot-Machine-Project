@@ -1,1 +1,1 @@
-# Slot-Machine
+Developed a Python-based slot machine game that simulates the experience of a casino slot machine. Utilized OOP as the foundation for best practice and efficient readability. Created the algorithm and logic of the game with the use of objects, classes, and arrays in order to present an input responsive game.
